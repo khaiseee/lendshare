@@ -1,0 +1,6 @@
+{
+  "name": "LendShare",
+  "description": "Peer-to-peer rental marketplace with secure payments, real-time messaging, review system, and offline saved listings details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
